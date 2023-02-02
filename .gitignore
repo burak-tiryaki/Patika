@@ -1,5 +1,5 @@
 **.DS_Store
 /first_project/.vscode
 *.csproj
-first_project/bin/
-first_project/obj/
+*/first_project/bin/
+*first_project/obj/
