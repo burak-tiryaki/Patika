@@ -3,3 +3,7 @@
 *.csproj
 *first_project/bin/
 *first_project/obj/
+
+*second/bin/
+*second/obj/
+/second/.vscode
