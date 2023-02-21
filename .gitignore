@@ -1,9 +1,9 @@
 **.DS_Store
-/first_project/.vscode
+/Csharp/first_project/.vscode
 *.csproj
-*first_project/bin/
-*first_project/obj/
+/Csharp/first_project/bin/
+/Csharp/first_project/obj/
 
-*second/bin/
-*second/obj/
-/second/.vscode
+/Csharp/second/bin/
+/Csharp/second/obj/
+/Csharp/second/.vscode
